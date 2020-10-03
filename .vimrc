@@ -1,3 +1,9 @@
+" gruvbox theme
+
+autocmd vimenter * colorscheme gruvbox
+set background=dark
+let g:airline_theme='gruvbox'
+
 " https://stackoverflow.com/questions/5700389/using-vims-persistent-undo
 
 let vimDir = '$HOME/.vim'
