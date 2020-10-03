@@ -8,3 +8,4 @@
 ### PLUGIN SECTION
 - [vim-plug](https://github.com/junegunn/vim-plug)
 - [gruvbox theme](https://github.com/morhetz/gruvbox)
+- [vim-airline](https://github.com/vim-airline/vim-airline)

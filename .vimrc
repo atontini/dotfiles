@@ -1,9 +1,3 @@
-" gruvbox theme
-
-"autocmd vimenter * colorscheme gruvbox
-"set background=dark
-"let g:airline_theme='gruvbox'
-
 " MISC SECTION
 
 "" Persistent Undo - https://stackoverflow.com/questions/5700389/using-vims-persistent-undo
@@ -19,11 +13,20 @@ if has('persistent_undo')
 	set undofile
 endif
 
+"" gruvbox theme configuration
+
+autocmd vimenter * colorscheme gruvbox
+set background=dark
+let g:airline_theme='gruvbox'
+
 " PLUGIN SECTION
 
 call plug#begin('~/.vim/plugged')
 
 ""  gruvbox theme
 Plug 'morhetz/gruvbox'
+
+"" vim-airpline
+Plug 'vim-airline/vim-airline'
 
 call plug#end()
