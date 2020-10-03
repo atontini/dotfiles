@@ -18,8 +18,10 @@ Then you can install every other plugins using this command into vim:
 ```
 
 Here you can see a list of the plugins I have installed:
-- [vim-plug](https://github.com/junegunn/vim-plug)
 - [gruvbox](https://github.com/morhetz/gruvbox)
-- [vim-airline](https://github.com/vim-airline/vim-airline)
 - [nerdtree](https://github.com/preservim/nerdtree)
 - [nerdtree-tabs](https://github.com/jistr/vim-nerdtree-tabs)
+- [vim-airline](https://github.com/vim-airline/vim-airline)
+- [vim-plug](https://github.com/junegunn/vim-plug)
+
+
