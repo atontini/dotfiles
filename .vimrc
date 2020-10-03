@@ -31,10 +31,34 @@ Plug 'jistr/vim-nerdtree-tabs'
 call plug#end()
 
 " CONFIGURATIONS
+"" main
+if &t_Co > 2 || has("gui_running")
+  syntax on
+  set hlsearch
+endif
+
+set ai
+set autoread
+set backspace=2
+set expandtab
+set mouse=a
+set nobackup
+set noswapfile
+set nowb
+set nu
+set shiftwidth=2
+set si
+set smarttab
+set softtabstop=2
+set splitright
+set termguicolors
+set visualbell
+set wrap
+
 "" gruvbox
 autocmd vimenter * colorscheme gruvbox
 set background=dark
 let g:airline_theme='gruvbox'
-"" nerdtree
+"" NERDtree
 let g:nerdtree_tabs_open_on_console_startup=1
 let g:nerdtree_tabs_smart_startup_focus=1
