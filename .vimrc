@@ -27,6 +27,9 @@ Plug 'vim-airline/vim-airline'
 "" nerdtree
 Plug 'preservim/nerdtree'
 Plug 'jistr/vim-nerdtree-tabs'
+"" gv-vim
+Plug 'tpope/vim-fugitive'
+Plug 'junegunn/gv.vim'
 
 call plug#end()
 
