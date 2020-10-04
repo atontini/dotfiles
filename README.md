@@ -2,6 +2,8 @@
 
 ## .vimrc
 
+Here is a short list of the things i have putted into the file. The list is to keep track of the things I have on it, even for myself  
+
 ### MISC
 - [Persistend undo](https://stackoverflow.com/questions/5700389/using-vims-persistent-undo)
 - [Persistent line number](https://stackoverflow.com/questions/774560/in-vim-how-do-i-get-a-file-to-open-at-the-same-line-number-i-closed-it-at-last)
