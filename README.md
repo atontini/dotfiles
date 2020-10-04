@@ -2,7 +2,7 @@
 
 ## .vimrc
 
-Here is a short list of the things i have putted into the file. The list is to keep track of the things I have on it, even for myself  
+Here is a short list of the things i have putted into the file. The list is to keep track of the things I have installed on it, even for myself  
 
 ### MISC
 - [Persistend undo](https://stackoverflow.com/questions/5700389/using-vims-persistent-undo)
