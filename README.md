@@ -1,8 +1,12 @@
 # Andrea's dotfiles
 
-## .vimrc
+I have made this repository to keep track of the things I have installed on my computer
 
-Here is a short list of the things i have putted into the file. The list is to keep track of the things I have installed on it, even for myself  
+## Installation
+
+Clone the repository and run installation.sh
+
+## .vimrc
 
 ### MISC
 - [Persistend undo](https://stackoverflow.com/questions/5700389/using-vims-persistent-undo)
@@ -17,7 +21,3 @@ Here you can see a list of the plugins I have installed:
 - [nerdtree-tabs](https://github.com/jistr/vim-nerdtree-tabs)
 - [vim-airline](https://github.com/vim-airline/vim-airline)
 - [vim-plug](https://github.com/junegunn/vim-plug)
-
-### Installation
-
-Clone the repository and run installation.sh
