@@ -11,6 +11,7 @@ Clone the repository and run installation.sh
 ### MISC
 - [Persistend undo](https://stackoverflow.com/questions/5700389/using-vims-persistent-undo)
 - [Persistent line number](https://stackoverflow.com/questions/774560/in-vim-how-do-i-get-a-file-to-open-at-the-same-line-number-i-closed-it-at-last)
+- [AutoCd](https://stackoverflow.com/questions/13864389/how-to-change-current-path-in-vim-automatically)
 
 ### PLUGINS
 

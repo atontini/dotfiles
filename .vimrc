@@ -17,6 +17,9 @@ if has("autocmd")
 	\| exe "normal! g'\"" | endif
 endif
 
+"" Automatically cd into the directory that the file is in - https://stackoverflow.com/questions/13864389/how-to-change-current-path-in-vim-automatically
+autocmd BufEnter * execute "chdir ".escape(expand("%:p:h"), ' ')
+
 " PLUGINS
 call plug#begin('~/.vim/plugged')
 
